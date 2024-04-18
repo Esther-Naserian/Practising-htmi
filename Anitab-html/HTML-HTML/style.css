@@ -1,0 +1,12 @@
+#container{
+    border:dotted 1px;
+    border-color:blue;
+
+
+}
+h2{
+    border:solid 1px blue;
+    padding:20px;
+    margin:5% ;
+
+}
